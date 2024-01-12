@@ -1,0 +1,14 @@
+/home/whitefox/Видео/token/src/main/java/web/application/token/Token.java
+/home/whitefox/Видео/token/src/main/java/web/infrastructure/config/Config.java
+/home/whitefox/Видео/token/src/main/java/web/infrastructure/token/TokenIssuer.java
+/home/whitefox/Видео/token/src/main/java/web/application/token/ISender.java
+/home/whitefox/Видео/token/src/main/java/web/infrastructure/token/TokenKey.java
+/home/whitefox/Видео/token/src/main/java/web/infrastructure/builder/Built.java
+/home/whitefox/Видео/token/src/main/java/web/infrastructure/token/TokenValidator.java
+/home/whitefox/Видео/token/src/main/java/web/infrastructure/builder/Builder.java
+/home/whitefox/Видео/token/src/main/java/web/infrastructure/jms/TokenSender.java
+/home/whitefox/Видео/token/src/main/java/web/application/token/ITokenService.java
+/home/whitefox/Видео/token/src/main/java/web/application/token/IToken.java
+/home/whitefox/Видео/token/src/main/java/web/infrastructure/config/CorsFilter.java
+/home/whitefox/Видео/token/src/main/java/web/infrastructure/token/TokenService.java
+/home/whitefox/Видео/token/src/main/java/web/infrastructure/jms/TokenListener.java
